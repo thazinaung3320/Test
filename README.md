@@ -17,7 +17,7 @@ Press Facebook
 
 [link](www.google.com)
 
-
+```
 pip install numpy
 ```
 ```
